@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="401px" height="475px" viewBox="0 0 401 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo-Color-Old_Refresh</title>
+    <g id="Logo-Color-Old_Refresh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M200.484881,0 L400.969762,118.75 L317.005,168.482 L317.005952,168.343352 L200.513684,99 L84.0214165,168.343352 L84.021,168.516 L3.97903932e-13,118.75 L200.484881,0 Z" id="Combined-Shape" fill="#FA0069"></path>
+        <path d="M400.969762,118.75 L400.969762,356.25 L200.484881,475 L200.484,374.983 L200.513684,375 L317.005952,306 L317.005,168.483 L400.969762,118.75 Z" id="Combined-Shape" fill="#30CCFF"></path>
+        <path d="M151,345.673 L200.513684,375 L200.688,374.896 L200.484881,475 L151,445.69 L151,345.673 Z M4.26325641e-14,118.75 L84.021,168.397 L84.021,183.759 L84,183.733907 L84,406.005 L4.26325641e-14,356.25 L4.26325641e-14,118.75 Z" id="Combined-Shape" fill="#000221"></path>
+        <g id="Group-2-Copy" transform="translate(151.000000, 179.000000)">
+            <polygon id="Rectangle-Copy-7" fill="#FA0069" points="49 0 99 29 49 58 -2.84217094e-14 29"></polygon>
+            <polygon id="Rectangle-Copy-6" fill="#30CCFF" transform="translate(74.000000, 72.500000) scale(-1, 1) translate(-74.000000, -72.500000) " points="49 29 99 58 99 116 49 87"></polygon>
+            <polygon id="Rectangle-Copy-14" fill="#000221" points="1.04805054e-13 29 49 58 49 116 -2.84217094e-14 87"></polygon>
+        </g>
+    </g>
+</svg>
