@@ -313,8 +313,8 @@
   max-width: 760px;
   margin-bottom: 40px;
   color: #fff;
-  font-size: 20px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 26px;
   font-weight: 400;
 }
 
@@ -496,8 +496,9 @@
 .block-quote {
   margin-top: 20px;
   margin-bottom: 60px;
-  padding: 20px 0px 20px 40px;
+  padding: 20px;
   border-left-color: #f50069;
+  background-color: #fff;
   color: #595959;
   line-height: 26px;
 }
