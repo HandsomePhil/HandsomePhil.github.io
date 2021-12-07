@@ -708,21 +708,12 @@
   margin-bottom: 20px;
 }
 
-.field-label {
-  font-family: Inter, sans-serif;
-  font-weight: 400;
-}
-
-.body-2 {
+.body-password {
   font-family: Inter, sans-serif;
 }
 
-.text-field {
+.field-text {
   color: #595959;
-}
-
-.password-blur {
-  position: absolute;
 }
 
 .error-message {
@@ -730,7 +721,7 @@
   background-color: transparent;
 }
 
-.text-block-3 {
+.text-block_error {
   color: #f50069;
 }
 
