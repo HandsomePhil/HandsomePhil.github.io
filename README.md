@@ -1,5 +1,5 @@
 # handsomephil.com
-This readme will serve as a reference for design components
+This readme will serve as a reference for design components and page elements. The site was built in Webflow but is hosted as a GitHub page.
 
 ## Webpage elements
 - Max-width of content for images and containers: 960px
