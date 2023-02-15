@@ -115,11 +115,11 @@
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   color: #ab2176;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .text-block_link:hover {
-  text-decoration: underline;
+  color: #f50069;
 }
 
 .nav-primary_container {
@@ -265,9 +265,10 @@
 .nav-footer_color {
   height: 20px;
   background-image: url('../images/home-hero_bkgd.jpg');
-  background-position: 50% 100%;
+  background-position: 50% 95%;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: scroll;
 }
 
 .nav-footer_bottom {
@@ -662,6 +663,7 @@
 }
 
 .nav-primary-menu-dropdown {
+  display: none;
   height: 80px;
   min-width: 100px;
   -webkit-transition: box-shadow 200ms ease-in-out;
@@ -1073,14 +1075,14 @@
   align-self: center;
 }
 
-#w-node-_217fb199-cff7-4140-88f2-851e27d65db0-9f61b491 {
+#w-node-_9fb4275a-57ff-4f1e-d3f6-14260bef2281-9f61b491 {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
 }
 
-#w-node-_9fb4275a-57ff-4f1e-d3f6-14260bef2281-9f61b491 {
+#w-node-_217fb199-cff7-4140-88f2-851e27d65db0-9f61b491 {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
