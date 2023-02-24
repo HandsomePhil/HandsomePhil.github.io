@@ -986,8 +986,28 @@
     display: none;
   }
 
+  .section-home_about {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .section-home_portfolio {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .section-home_mentor {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
   .image-home_mentor {
     display: none;
+  }
+
+  .section-about {
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .grid-about_competencies {
