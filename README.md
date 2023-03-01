@@ -10,5 +10,7 @@ This readme will serve as a reference for design components and page elements. T
 - -17° counter-clockwise rotation for portfolio image collages
 - Dimensions for homepage portfolio thumbnail: 560x800px
 - Dimensions for portfolio hero image: 1920x1080px
+- Box shadow 1: 0 6px 6px 0 rgba(0 0 0 / 23%)
+- Box shadow 2: 0 10px 20px 0 rgba(0 0 0 / 19%);
 
 <!--  Next page MemberList -->
