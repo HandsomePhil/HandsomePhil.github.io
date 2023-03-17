@@ -626,6 +626,15 @@
   background-repeat: repeat, no-repeat;
 }
 
+.div-portfolio_hero.claims {
+  background-color: #ff602b;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url('../images/claims-hero.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/claims-hero.png');
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+}
+
 .grid-portfolio-lightbox {
   margin-top: 40px;
   margin-bottom: 40px;
@@ -649,7 +658,7 @@
 }
 
 .div-portfolio-sep {
-  height: 200px;
+  height: 60px;
   background-image: url('../images/home-hero_bkgd.jpg');
   background-position: 50% 100%;
   background-size: cover;
@@ -1214,6 +1223,17 @@
   grid-row-start: 1;
 }
 
+#w-node-_26216b70-6424-1ef9-0e4f-7da4d15c2f5f-66ef5ab5 {
+  -ms-grid-column-span: 1;
+  grid-column-end: 3;
+  -ms-grid-column: 2;
+  grid-column-start: 2;
+  -ms-grid-row-span: 2;
+  grid-row-end: 3;
+  -ms-grid-row: 1;
+  grid-row-start: 1;
+}
+
 @media screen and (max-width: 479px) {
   #w-node-_08a79a26-3ca7-54a0-2be0-5cc2fd77a407-cbe2cc90 {
     -ms-grid-row: span 1;
@@ -1353,6 +1373,17 @@
     grid-column-start: span 2;
     -ms-grid-column-span: 2;
     grid-column-end: span 2;
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+  }
+
+  #w-node-_26216b70-6424-1ef9-0e4f-7da4d15c2f5f-66ef5ab5 {
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
